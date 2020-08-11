@@ -118,13 +118,18 @@ Each assignment is worth a number of points. Students must earn a total of 730 p
 Listed below are four main assignments for the semester. Each will focus on a different rhetorical technique and include at least two modes of communication, such as a paired oral presentation and written essay. Students who do not complete all FOUR of these assignments will receive a “FAIL” grade. 
 
 ## Assessment
-A full description of each assignment will be discussed in detail and posted to Moodle well in advance of scheduled due dates.
+A full description of each assignment will be discussed in detail and posted to Google Drive well in advance of scheduled due dates.
 
 Participation 20%
+
 Weekly Responses 20%
+
 Assignment 1: Personal Response (Technology and Humanities) 10%
+
 Assignment 2: Technical Writing 15%
+
 Assignment 3: Presentation/Pitching 15%
+
 Assignment 4: Portfolio 20% 
 
 ## Make School Course Policies
