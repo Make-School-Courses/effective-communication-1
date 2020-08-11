@@ -2,7 +2,7 @@
 
 ## Course Description
 
-"That's not what I meant." "You don't understand." "I wish I said that better." Miscommunication, misunderstand, misopportunities. How do you make sure you get your point clearly across on paper, online, or in person? This course explores the various skills you will need in writing and speaking well. You will engage with a series of texts and media, and hone your abilities to express yourself effectively. 
+"That's not what I meant," "You don't understand," and "I wish I said that better." Miscommunication, misunderstandings, misopportunities. How do you make sure you get your point clearly across on paper, online, or in person? This course explores the various skills you will need in writing and speaking well. You will engage with a series of texts and media, and hone your abilities to express yourself effectively. 
 
 ### Why you should know this
 
