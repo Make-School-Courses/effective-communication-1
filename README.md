@@ -114,16 +114,18 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 ## Evaluation
 
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
+Each assignment is worth a number of points. Students must earn a total of 730 points and higher for a course grade of “PASS”. Students who earn 729.99 (72.99%) points or lower will receive a “FAIL” grade. 
+Listed below are four main assignments for the semester. Each will focus on a different rhetorical technique and include at least two modes of communication, such as a paired oral presentation and written essay. Students who do not complete all FOUR of these assignments will receive a “FAIL” grade. 
 
-To pass this course you must meet the following requirements:
+## Assessment
+A full description of each assignment will be discussed in detail and posted to Moodle well in advance of scheduled due dates.
 
-- Complete all required assignments 
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+Participation 20%
+Weekly Responses 20%
+Assignment 1: Personal Response (Technology and Humanities) 10%
+Assignment 2: Technical Writing 15%
+Assignment 3: Presentation/Pitching 15%
+Assignment 4: Portfolio 20% 
 
 ## Make School Course Policies
 
