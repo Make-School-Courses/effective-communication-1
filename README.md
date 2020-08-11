@@ -1,31 +1,21 @@
-# Title
-
-### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
+# Effective Communication 1 
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
+"That's not what I meant." "You don't understand." "I wish I said that better." Miscommunication, misunderstand, misopportunities. How do you make sure you get your point clearly across on paper, online, or in person? This course explores the various skills you will need in writing and speaking well. You will engage with a series of texts and media, and hone your abilities to express yourself effectively. 
 
-### Why you should know this (optional)
+### Why you should know this
 
-Explain why students should care to learn the material presented in this class.
-
-## Prerequisites:  
-
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+"No matter what anybody tells you, words and ideas can change the world." John Keating
 
 ## Learning Outcomes
 
-### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
+By the end of the course, you will be able to:
 
-By the end of the course, you will be able to ...
+1. Demonstrate the processes and products of critical reading, thinking, speaking, and writing
+2. Analyze a range of texts and media (oral, visual, written, and performative) across disciplines and across a range of rhetorical modes
+3. Create effective written texts and oral presentations appropriate to topic, purpose, and audience
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
 
 ## Schedule
 
