@@ -8,6 +8,12 @@
 
 "No matter what anybody tells you, words and ideas can change the world." John Keating
 
+## Course Specifics
+
+**Course Delivery**: online | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+
 ## Learning Outcomes
 
 By the end of the course, you will be able to:
@@ -131,6 +137,12 @@ Assignment 2: Technical Writing 15%
 Assignment 3: Presentation/Pitching 15%
 
 Assignment 4: Portfolio 20% 
+
+##  Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
